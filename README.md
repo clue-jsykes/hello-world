@@ -1,2 +1,3 @@
 # hello-world
 my first foray into GitHub
+I'm the communications manager for the UF/IFAS Center for Land Use Efficiency. One of my responsibilities is creating and managing our departmental and program websites. I built Gardening Solutions in HTML and CSS working from the design of the university's website at the time. Now it needs to go responsive...
